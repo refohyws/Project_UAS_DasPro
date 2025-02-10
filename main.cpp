@@ -7,6 +7,7 @@ int main() {
     // <b>lang</b> variable name to see how CLion can help you rename it.
     auto lang = "C++";
     std::cout << "Hello and welcome to " << lang << "!\n";
+    std::cout << "Perubahan Baru" << std::endl;
 
     for (int i = 0; i <= 5; i++) {
         // TIP Press <shortcut actionId="Debug"/> to start debugging your code.
